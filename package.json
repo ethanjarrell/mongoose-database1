@@ -1,0 +1,26 @@
+{
+  "name": "mongoose-database1",
+  "version": "1.0.0",
+  "description": "This is a database using mongo and mongoose for a daily assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethanjarrell/mongoose-database1.git"
+  },
+  "author": "Ethan Jarrell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ethanjarrell/mongoose-database1/issues"
+  },
+  "homepage": "https://github.com/ethanjarrell/mongoose-database1#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "express-router": "0.0.1",
+    "mongoose": "^4.11.1",
+    "mustache": "^2.3.0",
+    "mustache-express": "^1.2.5"
+  }
+}
